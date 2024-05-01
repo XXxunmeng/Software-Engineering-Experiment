@@ -1,0 +1,1 @@
+这是master分支中的conflict.txt内容
