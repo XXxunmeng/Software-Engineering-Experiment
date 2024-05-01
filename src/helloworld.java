@@ -2,7 +2,7 @@ package src;
 
 public class helloworld {
     public static void main(String[] args) {
-        A a = new A();
-        a.show();
+        A b = new A();
+        b.show();
     }
 }
